@@ -1,0 +1,6 @@
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\bin\Debug\PersonInfoLibrary.dll
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\bin\Debug\PersonInfoLibrary.pdb
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\obj\Debug\PersonInfoLibrary.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\obj\Debug\PersonInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\obj\Debug\PersonInfoLibrary.dll
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoLibrary\obj\Debug\PersonInfoLibrary.pdb

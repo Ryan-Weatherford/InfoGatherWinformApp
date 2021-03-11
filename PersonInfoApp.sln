@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfoWinformUI", "PersonInfoWinformUI\PersonInfoWinformUI.csproj", "{0C0A8E81-593A-4B94-A50F-34D3144DCCE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfoLibrary", "PersonInfoLibrary\PersonInfoLibrary.csproj", "{24843FD4-879D-4A37-A34F-5802480C3740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0A8E81-593A-4B94-A50F-34D3144DCCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0A8E81-593A-4B94-A50F-34D3144DCCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0A8E81-593A-4B94-A50F-34D3144DCCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0A8E81-593A-4B94-A50F-34D3144DCCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24843FD4-879D-4A37-A34F-5802480C3740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24843FD4-879D-4A37-A34F-5802480C3740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24843FD4-879D-4A37-A34F-5802480C3740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24843FD4-879D-4A37-A34F-5802480C3740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA95301-006E-4E42-9878-CC6A27946489}
+	EndGlobalSection
+EndGlobal

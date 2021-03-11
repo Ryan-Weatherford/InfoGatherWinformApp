@@ -1,0 +1,14 @@
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\bin\Debug\PersonInfoWinformUI.exe.config
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\bin\Debug\PersonInfoWinformUI.exe
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\bin\Debug\PersonInfoWinformUI.pdb
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\bin\Debug\PersonInfoLibrary.dll
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\bin\Debug\PersonInfoLibrary.pdb
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.csprojAssemblyReference.cache
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.AddressForm.resources
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.HomeForm.resources
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.Properties.Resources.resources
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.csproj.GenerateResource.cache
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.csproj.CopyComplete
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.exe
+C:\Users\ryanw\source\repos\PersonInfoApp\PersonInfoWinformUI\obj\Debug\PersonInfoWinformUI.pdb
